@@ -1,2 +1,4 @@
 commit 1 ไรอ่า
 commit alpha
+commit 2 ไรอ่า
+commit 3 ไรอ่า
