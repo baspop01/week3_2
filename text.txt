@@ -1,1 +1,2 @@
 commit 1 ไรอ่า
+commit 2 ไรอ่า
